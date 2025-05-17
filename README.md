@@ -191,7 +191,7 @@ This analysis informs policy-level decisions, supports resource optimization, an
 
 ## Data Visualizations & Charts
 
-Link to the Dashboard: ![Dashboard5](https://github.com/user-attachments/assets/7b34675a-f1c1-453e-bcd5-f79de0f3dd3a)
+![Dashboard5](https://github.com/user-attachments/assets/7b34675a-f1c1-453e-bcd5-f79de0f3dd3a)
 
 ### Link to Excel Document:
 

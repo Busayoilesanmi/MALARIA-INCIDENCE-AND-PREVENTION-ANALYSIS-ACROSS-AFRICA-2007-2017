@@ -44,6 +44,7 @@ Methodologies: Use of Excel functions including PivotTables, line/bar/pie charts
 ### Data Source
 
 The data was presumably sourced from kaggle.com 
+
 Link to the the dataset: (https://www.kaggle.com/datasets/lydia70/malaria-in-africa)
 
 ### Data Collection Process

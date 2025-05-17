@@ -104,7 +104,8 @@ Dependent Variable: Malaria Cases
 
 Independent Variables: ITN usage, sanitation levels, clean water access, drug distribution percentage, urban/rural share
 
-Industry Context
+### Industry Context
+
 The data used in the malaria dashboard directly serves the public health industry, particularly stakeholders engaged in disease surveillance, vector control, healthcare delivery, and resource allocation across Africa. Each dataset element offers valuable insights that can guide national and international health interventions.
 
 ### Stakeholders

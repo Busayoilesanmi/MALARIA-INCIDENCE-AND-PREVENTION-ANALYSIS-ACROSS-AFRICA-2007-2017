@@ -80,23 +80,23 @@ Columns: Capture malaria cases, net usage (%), sanitation metrics, water access,
 
 ### Important Features and Their Significance
 
-Malaria Incidence: Measures disease burden.
+- Malaria Incidence: Measures disease burden.
 
-Insecticide-Treated Net Usage: Core preventative intervention.
+- Insecticide-Treated Net Usage: Core preventative intervention.
 
-Sanitation/Clean Water: Environmental factors influencing disease.
+- Sanitation/Clean Water: Environmental factors influencing disease.
 
-Drug Distribution: Reflects treatment accessibility.
+- Drug Distribution: Reflects treatment accessibility.
 
-Urban vs. Rural Areas: Socio-geographical determinants.
+- Urban vs. Rural Areas: Socio-geographical determinants.
 
 ### Data Limitations or Biases
 
-Regional reporting inconsistencies.
+- Regional reporting inconsistencies.
 
-Limited granularity at sub-national levels.
+- Limited granularity at sub-national levels.
 
-Missing or delayed updates in some health intervention indicators.
+- Missing or delayed updates in some health intervention indicators.
 
 ## Data Splitting and Preprocessing
 
@@ -114,11 +114,9 @@ Used interpolation and mean substitution for numerical gaps
 
 ### Data Transformations
 
-Calculated percentage impact of variables
+- Calculated percentage impact of variables
 
-Generated incidence rates normalized by population
-
-Created binary indicators for intervention effectiveness
+- Generated incidence rates normalized by population
 
 ### Data Splitting
 
@@ -132,15 +130,15 @@ The data used in the malaria dashboard directly serves the public health industr
 
 ### Stakeholders
 
-Ministries of Health (MoH): Primary bodies responsible for national malaria surveillance and intervention policy implementation. It use the insights to allocate national resources efficiently, develop targeted malaria eradication programs, and meet public health goals.
+- Ministries of Health (MoH): Primary bodies responsible for national malaria surveillance and intervention policy implementation. It use the insights to allocate national resources efficiently, develop targeted malaria eradication programs, and meet public health goals.
 
-World Health Organization (WHO): Provides global guidance, technical support, and funding for malaria control programs. It uses regional data to shape continental strategies, monitor progress toward Sustainable Development Goals (SDGs), and produce annual malaria reports.
+- World Health Organization (WHO): Provides global guidance, technical support, and funding for malaria control programs. It uses regional data to shape continental strategies, monitor progress toward Sustainable Development Goals (SDGs), and produce annual malaria reports.
 
-Non-Governmental Organizations (NGOs): Malaria No More, PATH, The Global Fund. It delivers on the ground programs, awareness campaigns, and distribute resources like ITNs and antimalarial drugs. It Identify where interventions are most needed, justify funding requirements, and demonstrate program impact.
+- Non-Governmental Organizations (NGOs): Malaria No More, PATH, The Global Fund. It delivers on the ground programs, awareness campaigns, and distribute resources like ITNs and antimalarial drugs. It Identify where interventions are most needed, justify funding requirements, and demonstrate program impact.
 
-Public Health Policy Researchers and Analysts: Academics and consultants analyzing trends, evaluating policy effectiveness, and recommending improvements.It extract causal relationships, publish findings, and influence both national and international health policies.
+- Public Health Policy Researchers and Analysts: Academics and consultants analyzing trends, evaluating policy effectiveness, and recommending improvements.It extract causal relationships, publish findings, and influence both national and international health policies.
 
-Affected Communities and Local Leaders: It participate in prevention strategies, educate residents, and help in community-level implementation. It advocate for better infrastructure, support behavior change, and ensure equitable distribution of resources.
+- Affected Communities and Local Leaders: It participate in prevention strategies, educate residents, and help in community-level implementation. It advocate for better infrastructure, support behavior change, and ensure equitable distribution of resources.
 
 ### Value to the Industry
 
@@ -222,9 +220,9 @@ https://drive.google.com/drive/folders/1fFoToa0S9pa_6TPVrWM16thAbi6teK58?usp=dri
 
 ### Charts and Graphs
 
-Line Chart: Malaria incidence trend (2007-2017)
+- Line Chart: Malaria incidence trend (2007-2017)
 
-Bar Charts:
+- Bar Charts:
 
 ITN usage vs. malaria cases
 
@@ -232,11 +230,11 @@ Drug distribution vs. incidence
 
 Top 6 countries with highest cases
 
-Pie Charts:
+- Pie Charts:
 
 Urban and rural area impact
 
-Bar Graphs:
+- Bar Graphs:
 
 Sanitation and clean water impact on incidence
 

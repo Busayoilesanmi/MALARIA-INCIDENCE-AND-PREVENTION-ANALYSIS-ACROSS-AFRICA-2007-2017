@@ -31,7 +31,28 @@ The objective of this analysis is to investigate the incidence and trends of mal
 
 ### Problem Being Addressed
 
-Malaria remains a major public health issue in Africa, with substantial health and economic burdens. This analysis aims to identify patterns and effective prevention strategies to support evidence-based health planning and resource allocation.
+Malaria remains a major public health issue in Africa, with substantial health and economic burdens. This analysis aims to identify patterns and effective prevention strategies to support evidence-based health planning and resource allocation. Some of the problem addressed are;
+
+- Which countries have seen the highest and lowest reduction in malaria cases?
+  
+- How has malaria incidences changed over time across different African countries?
+  
+- What is the relationship between insecticide treated nets(ITN) usage and Malaria cases?
+  
+- Do countries with better access to clean water and sanitation has lower malaria rate?
+  
+- What is the impact of Antimalaria drugs distribution on Malaria incidences?
+  
+- How does malaria incidence differ between urban and rural areas?
+  
+- What is the effect of intermittent preventive treatment (IPT) for pregnant women on malaria rates?
+  
+- What is the relationship between population growth and malaria incidence?
+  
+- Which countries have the highest percentage of children receiving antimalarial drugs?
+  
+- Which country has highest malaria rate
+  
 
 ### Key Datasets and Methodologies
 
